@@ -1,0 +1,13 @@
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\bin\Debug\netcoreapp3.1\VideoImagePostProject.exe
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\bin\Debug\netcoreapp3.1\VideoImagePostProject.deps.json
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\bin\Debug\netcoreapp3.1\VideoImagePostProject.runtimeconfig.json
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\bin\Debug\netcoreapp3.1\VideoImagePostProject.runtimeconfig.dev.json
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\bin\Debug\netcoreapp3.1\VideoImagePostProject.dll
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\bin\Debug\netcoreapp3.1\VideoImagePostProject.pdb
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.csprojAssemblyReference.cache
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.AssemblyInfoInputs.cache
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.AssemblyInfo.cs
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.csproj.CoreCompileInputs.cache
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.dll
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.pdb
+C:\Users\timia\source\repos\VideoImagePostProject\VideoImagePostProject\obj\Debug\netcoreapp3.1\VideoImagePostProject.genruntimeconfig.cache
